@@ -29,5 +29,4 @@ for (let i = 0; i < konutKredileri.length; i++) {
 console.log("</ul>")
 // var dolarDun = 9.20
 
-
 // console.log(konutKredileri)
